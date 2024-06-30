@@ -1,6 +1,6 @@
-#Paradigma orientado a objetos
+# Paradigma orientado a objetos
 
-#Ejercicio Hambuerguesa
+# Ejercicio Hambuerguesa
 
 Hamburguesas Low Cost: Parte 1
 
