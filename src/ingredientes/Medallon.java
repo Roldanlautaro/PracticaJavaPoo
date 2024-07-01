@@ -1,8 +1,6 @@
 package ingredientes;
 
 public class Medallon {
-
-
     private int precio;
 
     public Medallon(int precio) {
