@@ -1,4 +1,5 @@
 import hamburguesas.HamburguesaDoble;
+import hamburguesas.HamburguesaFlex;
 import hamburguesas.HamburguesaPlus;
 import hamburguesas.HamburguesaSimple;
 import ingredientes.Ingrediente;
@@ -45,6 +46,21 @@ public class Main {
         unatriple.asignarSegundoIngrediente(tomate);
         unatriple.asignarTercerIngrediente(lechuga);
         System.out.println("Precio total de la hamburguesa Plus = " + unatriple.precioTotal());
+
+
+        // Hamburguesa Flex sin limites
+
+        HamburguesaFlex unasinlimites = new HamburguesaFlex(14000);
+        unasinlimites.asignarMedallon(carne);
+        unasinlimites.asignarMedallon(carne);
+        unasinlimites.asignarMedallon(carne);
+        unasinlimites.asignarMedallon(carne);
+        unasinlimites.asignarMedallon(carne);
+        unasinlimites.asignarIngrediente(cheddar);
+        unasinlimites.asignarIngrediente(cheddar);
+        unasinlimites.asignarIngrediente(cheddar);
+        unasinlimites.asignarIngrediente(cheddar);
+        System.out.println("Precio Total de la Hamburguesa Flex = " + unasinlimites.precioTotal());
 
     }
 }
