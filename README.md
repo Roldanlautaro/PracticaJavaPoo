@@ -24,7 +24,7 @@ Aclaraciones:
 
 ▪︎ Leer bien el enunciado, y pensar el objetivo del problema. ▪︎ Respetar la terminología usada en el enunciado. ▪︎ Hacer el diagrama de clases antes de escribir el código.
 
-Parte 2: Implementando colecciones
+# Parte 2: Implementando colecciones
 
 Luego de varios reclamos de amigos y viejos clientes, el dueño de la hamburguesería se fue dando cuenta que su hamburguesa low cost no era tan así como proponía el slogan. No todos los clientes que pedían una hamburguesa doble querían agregarle 2 ingredientes y menos aún pagar por eso. La solución tenía que ser una hamburguesa única y que el cliente pueda agregarle todo lo que guste, sin límite de medallones ni ingredientes, incluso poder repetir algún ingrediente.
 
